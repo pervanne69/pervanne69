@@ -3,7 +3,6 @@
 I'm **Samvel Pogosyan**, a passionate **Backend Developer** and **Computer Science student** from Moscow, Russia.  
 I’ve been coding for over **5 years** and have **2 years of commercial experience** building real-world applications that are fast, scalable, and reliable. 🚀
 
-
 ## 🌟 About Me
 
 🎓 Studying **Computer Science at RTU MIREA** (3rd year)  
