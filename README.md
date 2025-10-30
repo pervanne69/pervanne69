@@ -3,7 +3,6 @@
 I'm **Samvel Pogosyan**, a passionate **Backend Developer** and **Computer Science student** from Moscow, Russia.  
 I’ve been coding for over **5 years** and have **2 years of commercial experience** building real-world applications that are fast, scalable, and reliable. 🚀
 
----
 
 ## 🌟 About Me
 
@@ -12,8 +11,6 @@ I’ve been coding for over **5 years** and have **2 years of commercial experie
 🧠 Strong in **Python, Databases, and API design**  
 🚀 Love building **scalable services** and automating everything possible  
 🌱 Constantly learning, improving, and exploring new technologies  
-
----
 
 ## 🔧 Tech Stack
 
@@ -24,7 +21,6 @@ Here are some of the tools and technologies I use regularly:
 🛢️ **Databases:** PostgreSQL | SQLite  
 ⚙️ **Tools:** Docker | Git | GitHub | Linux | CI/CD  
 
----
 
 ## 💼 Experience Highlights
 
@@ -46,14 +42,11 @@ Here are some of the tools and technologies I use regularly:
 - Collaborating with developers to deliver production-ready features  
 - Applying modern programming practices for clean, maintainable code  
 
----
-
 ## 🎯 Goals
 
 To grow as a **Backend Engineer**, mastering **distributed systems** and **cloud architecture**,  
 and contribute to building **high-performance, impactful products**. ⚡
 
----
 
 ## 🌐 Connect with Me
 
@@ -63,6 +56,5 @@ I’m always open to discussing tech, backend architecture, or new opportunities
 📫 **Email:** samvel.pogosyan2006@gmail.com  
 💬 **Telegram:** [https://t.me/pervanne69]  
 
----
 
 🎉 *"Turning complex ideas into elegant code — one commit at a time."*
