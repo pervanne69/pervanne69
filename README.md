@@ -71,8 +71,8 @@ and contribute to building **high-performance, impactful products**. ⚡
 Let’s connect and collaborate!  
 I’m always open to discussing tech, backend architecture, or new opportunities.  
 
-📫 Email: [![Email](https://img.shields.io/badge/Email-samvel.pogosyan2006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samvel.pogosyan2006@gmail.com)  
-💬 Telegram: [![Telegram](https://img.shields.io/badge/Telegram-@pervanne69-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pervanne69)
+[![Email](https://img.shields.io/badge/Email-samvel.pogosyan2006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samvel.pogosyan2006@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-@pervanne69-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pervanne69)
 
 
 🎉 *"Turning complex ideas into elegant code — one commit at a time."*
