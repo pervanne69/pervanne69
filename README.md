@@ -34,10 +34,10 @@ I’ve been coding for over **5 years** and have **2 years of commercial experie
 
 Here are some of the tools and technologies I use regularly:
 
-🚀 **Languages:** Python | JavaScript | HTML | CSS | JS
-🧰 **Frameworks:** FastAPI | Django | Aiogram | JS
+🚀 **Languages:** Python | JavaScript | HTML | CSS  
+🧰 **Frameworks:** FastAPI | Django | Aiogram | React 
 🛢️ **Databases:** PostgreSQL | SQLite  
-⚙️ **Tools:** Docker | Git | GitHub | Linux | CI/CD  
+⚙️ **Tools:** Docker | Git | GitHub | Linux | CI/CD   
 
 
 ## 💼 Experience Highlights
