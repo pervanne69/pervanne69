@@ -32,6 +32,13 @@ I’ve been coding for over **5 years** and have **2 years of commercial experie
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
+Here are some of the tools and technologies I use regularly:
+
+🚀 **Languages:** Python | JavaScript | HTML | CSS | JS | React
+🧰 **Frameworks:** FastAPI | Django | Aiogram  
+🛢️ **Databases:** PostgreSQL | SQLite  
+⚙️ **Tools:** Docker | Git | GitHub | Linux | CI/CD  
+
 
 ## 💼 Experience Highlights
 
